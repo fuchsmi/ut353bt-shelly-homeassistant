@@ -6,7 +6,7 @@
 // -----------------------------
 let ON_TIME = 700;            // Relais EIN (inkl. "halten")
 let PAUSE_BETWEEN = 1500;      // Pause zwischen den beiden Impulsen
-let PAUSE_CYCLE = 1000*60*5;       // Pause bis zum nächsten Doppelimpuls
+let PAUSE_CYCLE = 1000*60*4;       // Pause bis zum nächsten Doppelimpuls
 // -----------------------------
 
 let step = 0;
