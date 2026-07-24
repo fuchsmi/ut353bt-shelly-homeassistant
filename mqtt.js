@@ -13,7 +13,7 @@
 // Konfiguration
 // ------------------------------------------------------------
 
-let TEST_MODE = true;
+let TEST_MODE = false;
 
 let MQTT_STATE_PREFIX = "ut353";
 let MQTT_DISCOVERY_PREFIX = "homeassistant";
